@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/service/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
@@ -460,6 +460,13 @@ ninja.data = [{
           window.open("mailto:%6A%69%61%79%61%6E%67 [%64%6F%74] %73%6F%6E%67 [%61%74] %69%65%65%65 [%64%6F%74] %6F%72%67", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/sjywdxs", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
@@ -467,25 +474,11 @@ ninja.data = [{
           window.open("https://orcid.org/0009-0008-7093-9781", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=d0TlSiEAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://jiayangsong.me/", "_blank");
         },
       },{
       id: 'light-theme',
