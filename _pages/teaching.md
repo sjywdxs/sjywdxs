@@ -30,8 +30,7 @@ These experiences allowed me to comprehend the challenges that students may face
 \
 *Winter 2023* &emsp; **Teaching Assistant** &emsp; ECE 421 - Exploring Software Development Domains  
 \
-*Winter 2023* &emsp; **Teaching Assistant** &emsp; ECE 209 - Fundamentals of Electrical Engineering
-\  
+*Winter 2023* &emsp; **Teaching Assistant** &emsp; ECE 209 - Fundamentals of Electrical Engineering   
 
 #### @ University of Toronto
 \

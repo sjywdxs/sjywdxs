@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /misc/
 title: Misc.
 description: Some jottings hope interest you :)  
 nav: true

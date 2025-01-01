@@ -24,13 +24,13 @@ I am a **Ph.D. candidate** in the Department of Electrical and Computer Engineer
 
 ## Research Interest
 
-My primary research directions are oriented on **Quality Assurance for Trustworthy AI systems** suh as **AI-enabled Cyber-Physical systems (AI-CPS)** and **Foundation Models**.
+My primary research directions are oriented on **Quality Assurance for Trustworthy AI systems** such as **AI-enabled Cyber-Physical systems (AI-CPS)** and **Foundation Models**.
 
 AI-CPS are integrated systems in which traditional software units, Artificial Intelligence (AI) components, and physical plants are intertwined to collaboratively perform complex tasks (e.g., Robotics, Energy Systems, Autonomous Driving). However, two questions keep me up at night and encourage me to explore further, namely, 
 **(1) How to safeguard the quality of sophisticated AI-CPS?** and 
 **(2) What is the best practice of cyber-physical interaction?**
 
-My research is devoted to investigating these two questions in three stages: (1) design AI-aware **testing and evaluation** techniques to reveal the capability of AI-CPSs, (2) propose novel **analysis** strategies to understand the behavior characteristics of AI components w.r.t. the physical world, and (3) develop **enhancement** solutions to improve the overall safety and reliability of the system across domains.
+My research is devoted to investigating these two questions in three stages: (1) design AI-aware **testing and evaluation** techniques to reveal the capability of AI-CPS, (2) propose novel **analysis** strategies to understand the behavior characteristics of AI components w.r.t. the physical world, and (3) develop **enhancement** solutions to improve the overall safety and reliability of the system across domains.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
