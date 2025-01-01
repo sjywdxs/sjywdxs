@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/example_cv.pdf";
           },
         },{id: "nav-misc",
           title: "Misc.",
