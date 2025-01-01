@@ -1,0 +1,4 @@
+I wouldn’t say I’m a big fan of outdoor activities. 
+During the COVID pandemic, I lived alone in my apartment for over nine months, and I found it tolerable as long as I had access to the internet. (I definitely missed going to the gym!) 
+Well, I can go hiking, biking, or city walking with friends for hours. Still, I would rather consider those social activities than outdoor ones, as I rarely go hiking or biking alone. 
+To me, the calories consumed in a 4-hour city walk are the same as a 1-hour climbing machine in the gym. So, why not take the extra hours for gaming or watching some funny videos.
