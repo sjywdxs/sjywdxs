@@ -9,7 +9,7 @@ profile:
   image: me_skiing.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>5-262 Donadeo Innovation Centre for Engineering</p>
+    <p>5-362 Donadeo Innovation Centre for Engineering</p>
     <p>9211 116 St NW </p>
     <p>Edmonton, AB, Canada T6G 1H9</p>
 
