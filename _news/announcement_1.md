@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our preprint [*Multilingual Blending: LLM Safety Alignment Evaluation with Language Mixtures*]((https://arxiv.org/abs/2407.07342)) is available on arXiv. This paper introduces **Multilingual Blending**, a mixed-language query-response scheme
+Our preprint [*Multilingual Blending: LLM Safety Alignment Evaluation with Language Mixtures*](https://arxiv.org/abs/2407.07342) is available on arXiv. This paper introduces **Multilingual Blending**, a mixed-language query-response scheme
 designed to evaluate the safety alignment of SOTA LLMs under sophisticated, code-switching conditions.
