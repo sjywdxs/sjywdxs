@@ -10,7 +10,7 @@
 email: jiayang [dot] song [at] ieee [dot] org # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: sjywdxs # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
@@ -29,7 +29,7 @@ orcid_id: 0009-0008-7093-9781 # your ORCID ID
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # set to true to show the RSS icon
+# rss_icon: true # set to true to show the RSS icon
 scholar_userid: d0TlSiEAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
@@ -45,7 +45,7 @@ scholar_userid: d0TlSiEAAAAJ # your Google Scholar ID
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: me_goggle.jpg # can be png, svg, jpg
-  title: Home Page
-  url: https://jiayangsong.me/
+# custom_social: # can be any name here other than the ones already defined above
+#   logo: me_goggle.jpg # can be png, svg, jpg
+#   title: Home Page
+#   url: https://jiayangsong.me/
