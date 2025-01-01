@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Home
-permalink: /home/
+permalink: /
 subtitle: Ph.D. Candidate at University of Alberta
 
 profile:
