@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About
-permalink: /
+title: Home
+permalink: /home/
 subtitle: Ph.D. Candidate at University of Alberta
 
 profile:
@@ -9,10 +9,9 @@ profile:
   image: me_skiing.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>5-262 Donadeo Innovation Centre for Engineering (DICE)</p>
+    <p>5-262 Donadeo Innovation Centre for Engineering</p>
     <p>9211 116 St NW </p>
     <p>Edmonton, AB, Canada T6G 1H9</p>
-    <p>jiayang dot song at ieee dot org</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,7 +24,7 @@ I am a Ph.D. candidate in the Department of Electrical and Computer Engineering,
 
 ## Research Interest
 
-My primary research directions are oriented on *Quality Assurance* for Trustworthy AI systems with concretion on **AI-enabled Cyber-Physical systems (AI-CPS)**.
+My primary research directions are oriented on **Quality Assurance for Trustworthy AI systems** with concretion on **AI-enabled Cyber-Physical systems (AI-CPS)**.
 
 AI-CPS are integrated systems in which traditional software units, Artificial Intelligence (AI) components, and physical plants are intertwined to collaboratively perform complex tasks (e.g., Robotics, Energy Systems, Autonomous Driving). However, two questions keep me up at night and encourage me to explore further, namely, 
 **(1) How to safeguard the quality of sophisticated AI-CPS?** and 
