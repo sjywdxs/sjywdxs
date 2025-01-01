@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Jiayang Song",
     "label": "Ph.D. Candidate",
     "image": "",
     "email": "jiayang [dot] song [at] ieee [dot] org",
@@ -23,7 +23,7 @@
       "area": "Software Engineering and Intelligent Systems",
       "studyType": "University of Alberta",
       "startDate": "2022",
-      "endDate": "2025 (expected)",
+      "endDate": "2025 (EXP)",
       "courses": ["Research Assistant"],
       "score": "10"
     },
@@ -50,7 +50,7 @@
       "score": "10"
     }
   ],
-  "Professional Experience": [
+  "work": [
     {
       "name": "Research Assistant",
       "position": "Department of Electrical and Computer Engineering, University of Alberta",
@@ -78,6 +78,13 @@
       "startDate": "2022",
       "endDate": "2024",
       "summary": "Future Energy System"
+    },
+    {
+      "name": "Research Intern",
+      "position": "Robotic Arm sim2real Research with NVIDIA Omniverse",
+      "startDate": "2023.1",
+      "endDate": "2023.3",
+      "summary": "Sycodal Electrotechnique Inc, Montreal, Canada"
     },
     {
       "name": "Research Assistant",
@@ -134,13 +141,23 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate",
+      "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
@@ -156,16 +173,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }

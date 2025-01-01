@@ -8,27 +8,35 @@ nav_order: 4
 ---
 
 
-## Journal Reviewer
-
-IEEE Transactions on Software Engineering (TSE), 2023-present 
+### Journal Reviewer
+---
 \
-s
-
+IEEE Transactions on Software Engineering (TSE), 2024-present  
+\
+Empirical Software Engineering (EMSE), 2024-present  
+\
+International Journal of Human‑Computer Interaction (IJHCI), 2024-present  
+\
+IEEE Transaction on Reliability (TR), 2023-present  
 
 ### Conference Reviewer
+---
+\
+IEEE International Conference on Robotics and Automation (ICRA), 2024  
+\
+Conference on Neural Information Processing Systems (NeurIPS), 2024  
+\
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2024  
+\
+International Conference on Learning Representations (ICLR), 2024  
+\
+International Conference on Machine Learning (ICML), 2024  
 
-IEEE Transactions on Software Engineering (TSE)
+### Invited Talk
+---
 \
-*Fall 2024* &emsp;&emsp;&ensp; **Teaching Assistant** &emsp; ECE 210 - Introduction to Digital Logic Design  
+*Quality Assurance for AI-enabled Cyber-Physical Systems*  
+University of Alberta @ Guest Lecture, Edmonton, Canada (2023-2024)   
+East China Normal University, Shanghai, China (2023)  
 \
-*Fall 2024* &emsp;&emsp;&ensp; **Teaching Assistant** &emsp; ECE 209 - Fundamentals of Electrical Engineering  
-\
-*Winter 2024* &emsp; **Teaching Assistant** &emsp; ECE 421 - Exploring Software Development Domains  
-\
-*Winter 2024* &emsp; **Teaching Assistant** &emsp; ECE 209 - Fundamentals of Electrical Engineering  
-\
-*Fall 2023* &emsp;&emsp;&ensp; **Teaching Assistant** &emsp; ECE 303 - Analog Electronics  
-\
-*Winter 2023* &emsp; **Teaching Assistant** &emsp; ECE 421 - Exploring Software Development Domains  
-\
-*Winter 2023* &emsp; **Teaching Assistant** &emsp; ECE 209 - Fundamentals of Electrical Engineering
+ICSE 2022: When cyber-physical systems meet AI: A benchmark, an evaluation, and a way forward
