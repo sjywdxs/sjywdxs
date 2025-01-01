@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://sjywdxs.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://sjywdxs.github.io/sjywdxs//sitemap.xml
