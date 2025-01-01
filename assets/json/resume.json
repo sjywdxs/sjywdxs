@@ -1,114 +1,97 @@
 {
   "basics": {
     "name": "Albert Einstein",
-    "label": "Scientist",
+    "label": "Ph.D. Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jiayang [dot] song [at] ieee [dot] org",
+    "home page": "https://jiayangsong.me",
+    "Research Interest": "AI-enabled Cyber-Physical Systems, Software Engineering, Trustworthy AI",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "address": "5-262 Donadeo Innovation Centre for Engineering",
+      "postalCode": "T6G 1H9",
+      "city": "Edmonton",
+      "countryCode": "CA",
+      "region": "Alberta"
+    }
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Ph.D Candidate",
+      "location": "Edmonton, Switzerland",
+      "url": "https://www.ualberta.ca/en/index.html",
+      "area": "Software Engineering and Intelligent Systems",
+      "studyType": "University of Alberta",
+      "startDate": "2022",
+      "endDate": "2025 (expected)",
+      "courses": ["Research Assistant"],
+      "score": "10"
+    },
+    {
+      "institution": "M.Eng in Electrical and Computer Engineering ",
+      "location": "Toronto, Canada",
+      "url": "https://www.utoronto.ca/",
+      "area": " Data Science, Cloud Computing and Deep Learning",
+      "studyType": "University of Toronto",
+      "startDate": "2019",
+      "endDate": "2021",
+      "courses": ["Graduated with Distinction"],
+      "score": "10"
+    },
+    {
+      "institution": "B.Eng in Electrical and Computer Engineering ",
+      "location": "London, Canada",
+      "url": "https://www.ualberta.ca/en/index.html",
+      "area": "Software Engineering and Intelligent Systems",
+      "studyType": "Western University",
+      "startDate": "2015",
+      "endDate": "2019",
+      "courses": ["Graduated with Distinction"],
+      "score": "10"
     }
   ],
-  "awards": [
+  "Professional Experience": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Research Assistant",
+      "position": "Department of Electrical and Computer Engineering, University of Alberta",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "Advisor: Prof. Lei Ma"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Joint Research Project",
+      "position": "Resilient Grid for Clean Energy Integration",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Major Innovation Fund"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Research Assistant, ",
+      "position": "Trustworthiness Assurance and Engineering for AI‑enabled Cyber‑physical Systems ",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "Amii Research Allocation Panel"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "HQP, Project Assistant",
+      "position": "Safety and Reliability Assurance of Next Generation AI‑CPS for Energy Systems ",
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": "Future Energy System"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Research Assistant",
+      "position": "Department of Electrical and Computer Engineering, Western University",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "Robotics & Mechatronics Systems Lab "
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Summary Research Intern",
+      "position": "Department of Electrical and Computer Engineering, Western University",
+      "startDate": "2018.04",
+      "endDate": "2018.09",
+      "summary": "NSERC Research Program"
     }
   ],
   "publications": [
@@ -173,18 +156,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
