@@ -20,11 +20,11 @@ social: true # includes social icons at the bottom of the page
 
 ## About Me
 
-I am a Ph.D. candidate in the Department of Electrical and Computer Engineering, [University of Alberta](https://www.ualberta.ca/index.html), supervised by [Prof.Lei Ma](https://www.malei.org/). I received my M.Eng in Electrical and Computer Engineering with specialization in Machine Learning from the [University of Toronto](https://www.utoronto.ca/) in 2021, B.Eng in Electrical and Computer Engineering from [Western University](https://www.uwo.ca/index.html) in 2019. I am grateful for the support from the [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/) and [Future Energy System (FES)](https://www.futureenergysystems.ca/).
+I am a **Ph.D. candidate** in the Department of Electrical and Computer Engineering, [University of Alberta](https://www.ualberta.ca/index.html), supervised by [Prof.Lei Ma](https://www.malei.org/). I received my **M.Eng** in Electrical and Computer Engineering with specialization in Machine Learning from the [University of Toronto](https://www.utoronto.ca/) in 2021, **B.Eng** in Electrical and Computer Engineering from [Western University](https://www.uwo.ca/index.html) in 2019. I am grateful for the support from the [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/) and [Future Energy System (FES)](https://www.futureenergysystems.ca/).
 
 ## Research Interest
 
-My primary research directions are oriented on **Quality Assurance for Trustworthy AI systems** with concretion on **AI-enabled Cyber-Physical systems (AI-CPS)**.
+My primary research directions are oriented on **Quality Assurance for Trustworthy AI systems** suh as **AI-enabled Cyber-Physical systems (AI-CPS)** and **Foundation Models**.
 
 AI-CPS are integrated systems in which traditional software units, Artificial Intelligence (AI) components, and physical plants are intertwined to collaboratively perform complex tasks (e.g., Robotics, Energy Systems, Autonomous Driving). However, two questions keep me up at night and encourage me to explore further, namely, 
 **(1) How to safeguard the quality of sophisticated AI-CPS?** and 
