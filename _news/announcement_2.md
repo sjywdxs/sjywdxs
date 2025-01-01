@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [*Look Before You Leap: An Exploratory Study of Uncertainty Analysis for Large Language Models*](https://arxiv.org/abs/2307.10236) is accepted at IEEE Transactions on Software Engineering (TSE). 
+Our paper <a href="https://arxiv.org/abs/2307.10236">Look Before You Leap: An Exploratory Study of Uncertainty Analysis for Large Language Models</a> is accepted at IEEE Transactions on Software Engineering (TSE). 
