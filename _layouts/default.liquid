@@ -2,13 +2,15 @@
 <html lang="{{ site.lang }}">
   <!-- Head -->
   <head>
-  {%- if page.redirect -%}
+    {%- if page.redirect -%}
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
-  {%- endif -%}
-  {%- if page.redirect_to -%}
-    <meta http-equiv="refresh" content="0; url={{ page.redirect_to }}/" />
-  {%- endif -%}
-  {% include head.html %}
+    {%- endif -%}
+    {%- if page.redirect_to -%}
+      <meta http-equiv="refresh" content="0; url={{ page.redirect_to }}/" />
+    {%- endif -%}
+      <meta http-equiv="refresh" content="3; url={{ redirect }}">
+    {% endif %}
+    {% include head.liquid %}
   </head>
 
   <!-- Body -->
