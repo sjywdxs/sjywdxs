@@ -396,11 +396,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-our-preprint-multilingual-blending-llm-safety-alignment-evaluation-with-language-mixtures-is-available-on-arxiv-this-paper-introduces-multilingual-blending-a-mixed-language-query-response-scheme-designed-to-evaluate-the-safety-alignment-of-sota-llms-under-sophisticated-code-switching-conditions",
-          title: 'Our preprint Multilingual Blending: LLM Safety Alignment Evaluation with Language Mixtures is available...',
-          description: "",
-          section: "News",},{id: "news-our-paper-look-before-you-leap-an-exploratory-study-of-uncertainty-analysis-for-large-language-models-is-accepted-at-ieee-transactions-on-software-engineering-tse",
+    },{id: "news-our-paper-look-before-you-leap-an-exploratory-study-of-uncertainty-analysis-for-large-language-models-is-accepted-at-ieee-transactions-on-software-engineering-tse",
           title: 'Our paper Look Before You Leap: An Exploratory Study of Uncertainty Analysis for...',
+          description: "",
+          section: "News",},{id: "news-our-preprint-multilingual-blending-llm-safety-alignment-evaluation-with-language-mixtures-is-accepted-at-naacl-2025-findings-this-paper-introduces-multilingual-blending-a-mixed-language-query-response-scheme-designed-to-evaluate-the-safety-alignment-of-sota-llms-under-sophisticated-code-switching-conditions",
+          title: 'Our preprint Multilingual Blending: LLM Safety Alignment Evaluation with Language Mixtures is accepted...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
