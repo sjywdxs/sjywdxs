@@ -36,7 +36,7 @@ International Conference on Machine Learning (ICML), 2024
 ---
 \
 *Quality Assurance for AI-enabled Cyber-Physical Systems*  
-University of Alberta @ Guest Lecture, Edmonton, Canada (2023-2024)   
+University of Alberta @ Guest Lecture, Edmonton, Canada (2023-2025)   
 East China Normal University, Shanghai, China (2023)  
 \
 ICSE 2022: When cyber-physical systems meet AI: A benchmark, an evaluation, and a way forward

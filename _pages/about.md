@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Ph.D. Candidate at University of Alberta
+subtitle: Ph.D. at University of Alberta
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 ## About Me
 
-I am a **Ph.D. candidate** in the Department of Electrical and Computer Engineering, [University of Alberta](https://www.ualberta.ca/index.html), supervised by [Prof.Lei Ma](https://www.malei.org/). I received my **M.Eng** in Electrical and Computer Engineering with specialization in Machine Learning from the [University of Toronto](https://www.utoronto.ca/) in 2021, **B.Eng** in Electrical and Computer Engineering from [Western University](https://www.uwo.ca/index.html) in 2019. I am grateful for the support from the [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/) and [Future Energy System (FES)](https://www.futureenergysystems.ca/).
+I am a **Ph.D.** in the Department of Electrical and Computer Engineering, [University of Alberta](https://www.ualberta.ca/index.html), advised by [Prof.Lei Ma](https://www.malei.org/). I received my **M.Eng** in Electrical and Computer Engineering with specialization in Machine Learning from the [University of Toronto](https://www.utoronto.ca/) in 2021, **B.Eng** in Electrical and Computer Engineering from [Western University](https://www.uwo.ca/index.html) in 2019. I am grateful for the support from the [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/) and [Future Energy System (FES)](https://www.futureenergysystems.ca/).
 
 ## Research Interest
 
