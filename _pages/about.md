@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Ph.D. at University of Alberta
+subtitle: Assistant Professor
 
 profile:
   align: right
@@ -20,17 +20,25 @@ social: true # includes social icons at the bottom of the page
 
 ## About Me
 
-I am a **Ph.D.** in the Department of Electrical and Computer Engineering, [University of Alberta](https://www.ualberta.ca/index.html), advised by [Prof.Lei Ma](https://www.malei.org/). I received my **M.Eng** in Electrical and Computer Engineering with specialization in Machine Learning from the [University of Toronto](https://www.utoronto.ca/) in 2021, **B.Eng** in Electrical and Computer Engineering from [Western University](https://www.uwo.ca/index.html) in 2019. I am grateful for the support from the [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/) and [Future Energy System (FES)](https://www.futureenergysystems.ca/).
+I am currently an **Assistant Professor** in the School of Computer Science and Engineering at [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US). 
+I received my **Ph.D.** (Software Engineering and Intelligent System) in the Department of Electrical and Computer Engineering at the [University of Alberta](https://www.ualberta.ca/index.html) in 2025, **M.Eng** in Electrical and Computer Engineering with specialization in Machine Learning at the [University of Toronto](https://www.utoronto.ca/) in 2021, and **B.Eng** in Electrical and Computer Engineering at [Western University](https://www.uwo.ca/index.html) in 2019.
+I am grateful for the support from the [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/) and [Future Energy System (FES)](https://www.futureenergysystems.ca/).
 
 ## Research Interest
 
-My primary research directions are oriented on **Quality Assurance for Trustworthy AI systems** such as **AI-enabled Cyber-Physical systems (AI-CPS)** and **Foundation Models**.
+My primary research directions revolves around **Quality Assurance for Trustworthy AI systems** such as **AI-enabled Cyber-Physical systems (AI-CPS)**, **Large Language Models (LLMs)**, and **Multimodal AI Agents**.
 
-AI-CPS are integrated systems in which traditional software units, Artificial Intelligence (AI) components, and physical plants are intertwined to collaboratively perform complex tasks (e.g., Robotics, Energy Systems, Autonomous Driving). However, two questions keep me up at night and encourage me to explore further, namely, 
-**(1) How to safeguard the quality of sophisticated AI-CPS?** and 
-**(2) What is the best practice of cyber-physical interaction?**
+<!-- Two questions keep me up at night and encourage me to explore further, namely, 
+**(1) How to safeguard the quality of sophisticated AI Systems?** and 
+**(2) What is the best practice of cyber-physical interaction?** -->
 
-My research is devoted to investigating these two questions in three stages: (1) design AI-aware **testing and evaluation** techniques to reveal the capability of AI-CPS, (2) propose novel **analysis** strategies to understand the behavior characteristics of AI components w.r.t. the physical world, and (3) develop **enhancement** solutions to improve the overall safety and reliability of the system across domains.
+My research is devoted to exploring these directions in three stages: 
+(1) **testing and evaluating** the performance and reliability of generative AI in dynamic, real-world environments, 
+(2) **developing** methods to enhance the safety and resilience of complex AI systems, and 
+(3) **investigating** the potential of multimodal foundation models to revolutionize the capabilities of AI applications.
+
+My **long-term vision** is to create a cohesive research program that pushes the boundaries of AI
+systems by combining foundational models and cutting-edge quality assurance techniques.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
