@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/example_cv.pdf";
+            window.location.href = "/assets/pdf/CV-Jiayang.pdf";
           },
         },{id: "nav-misc",
           title: "Misc.",
