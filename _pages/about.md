@@ -21,12 +21,12 @@ social: true # includes social icons at the bottom of the page
 ## About Me
 
 I am currently an **Assistant Professor** in the School of Computer Science and Engineering at [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US). 
-I received my **Ph.D.** (Software Engineering and Intelligent System) in the Department of Electrical and Computer Engineering at the [University of Alberta](https://www.ualberta.ca/index.html) in 2025, **M.Eng** in Electrical and Computer Engineering with specialization in Machine Learning at the [University of Toronto](https://www.utoronto.ca/) in 2021, and **B.Eng** in Electrical and Computer Engineering at [Western University](https://www.uwo.ca/index.html) in 2019.
-I am grateful for the support from the [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/) and [Future Energy System (FES)](https://www.futureenergysystems.ca/).
+I received my **Ph.D.** (Software Engineering and Intelligent System) at the [University of Alberta](https://www.ualberta.ca/index.html) in 2025, **M.Eng** at the [University of Toronto](https://www.utoronto.ca/) in 2021, and **B.Eng** at [Western University](https://www.uwo.ca/index.html) in 2019.
+<!-- I am grateful for the support from the [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/) and [Future Energy System (FES)](https://www.futureenergysystems.ca/). -->
 
 ## Research Interest
 
-My primary research directions revolves around **Quality Assurance for Trustworthy AI systems** such as **AI-enabled Cyber-Physical systems (AI-CPS)**, **Large Language Models (LLMs)**, and **Multimodal AI Agents**.
+My primary research direction revolves around **Quality Assurance for Trustworthy AI systems** such as **AI-enabled Cyber-Physical systems (AI-CPS)**, **Large Language Models (LLMs)**, and **Multimodal AI Agents**.
 
 <!-- Two questions keep me up at night and encourage me to explore further, namely, 
 **(1) How to safeguard the quality of sophisticated AI Systems?** and 
