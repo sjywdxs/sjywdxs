@@ -8,8 +8,6 @@ profile:
   align: right
   image: me_2025_formal.jpg
   image_circular: true # crops the image to make it circular
-  image_width: 150px   # or 150px, adjust as needed
-  image_height: auto
   more_info: >
     <p>Avenida Wai Long </p>
     <p>Taipa, Macao SAR</p>
