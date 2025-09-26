@@ -6,12 +6,11 @@ subtitle: Assistant Professor
 
 profile:
   align: right
-  image: me_skiing.jpg
-  image_circular: false # crops the image to make it circular
+  image: me_2025_formal.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>5-362 Donadeo Innovation Centre for Engineering</p>
-    <p>9211 116 St NW </p>
-    <p>Edmonton, AB, Canada T6G 1H9</p>
+    <p>Avenida Wai Long </p>
+    <p>Taipa, Macao SAR</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -39,6 +38,11 @@ My research is devoted to exploring these directions in three stages:
 
 My **long-term vision** is to create a cohesive research program that pushes the boundaries of AI
 systems by combining foundational models and cutting-edge quality assurance techniques.
+
+## Prospective Students
+I am looking for sel-motivated Ph.D. and MSc. students with strong programming skills and relevant research experience. 
+Please send me an email with your CV and transcripts if you are interested.
+
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

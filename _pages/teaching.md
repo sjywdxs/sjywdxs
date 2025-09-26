@@ -10,9 +10,15 @@ nav_order: 3
 ### Teaching Experience
 ---
 \
-I have been a TA several times in four different courses at the University of Alberta (UofA) and previously worked as a TA for one course at the University of Toronto (UofT). 
+I am currently serving as an instructor for several Computer Science and Software Engineering courses at Macau University of Science and Technology (MUST).
+Before taht, I have been a TA several times in four different courses at the University of Alberta (UofA) and previously worked as a TA for one course at the University of Toronto (UofT). 
 In addition, I have been invited several times as Guest Speaker to present AI-CPS research and academic paper writing. 
 These experiences allowed me to comprehend the challenges that students may face, strategies to help them navigate difficulties, and methods to motivate them to overcome problems from various perspectives.
+
+#### @ Macau University of Science and Technology (MUST)
+\
+*Fall 2025* &emsp; **Course Instructor** &emsp; CS/SE 100 - Computer Programming (100+ participants)
+
 
 #### @ University of Alberta
 \
@@ -41,6 +47,6 @@ These experiences allowed me to comprehend the challenges that students may face
 ---
 Although university time is merely a **fleeting moment in one’s life**, the skills and confidence in knowledge gained during this period will have a **lasting influence on one’s future**. While imparting knowledge to the next generation is a core duty of a university, fostering independent thinking, valuing knowledge, and maintaining enthusiasm for learning is even more essential for students to become who they aspire to be and accomplish their goals. 
     
-I consider the CS and ECE courses at universities to be designed to prepare students from diverse academic and personal backgrounds for success in programming by emphasizing essential foundational skills. 
+I consider the CS and SE courses at universities to be designed to prepare students from diverse academic and personal backgrounds for success in programming by emphasizing essential foundational skills. 
 These skills enable students to transition from examining problem statements to conceptualizing target program outcomes and ultimately implementing them in working code. 
 Such competencies are advantageous for all students, as they provide CS majors a strong basis for further education and empower non-CS majors to address computational challenges within their fields effectively.
