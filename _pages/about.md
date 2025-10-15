@@ -40,7 +40,7 @@ My **long-term vision** is to create a cohesive research program that pushes the
 systems by combining foundational models and cutting-edge quality assurance techniques.
 
 ## Prospective Students
-I am looking for sel-motivated Ph.D. and MSc. students with strong programming skills and relevant research experience. 
+I am looking for self-motivated Ph.D. and MSc. students with strong programming skills and relevant research experience. 
 Please send me an email with your CV and transcripts if you are interested.
 
 
