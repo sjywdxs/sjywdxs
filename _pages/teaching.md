@@ -17,7 +17,9 @@ These experiences allowed me to comprehend the challenges that students may face
 
 #### @ Macau University of Science and Technology (MUST)
 \
-*Fall 2025* &emsp; **Course Instructor** &emsp; CS/SE 100 - Computer Programming (100+ participants)
+*Winter 2026* &emsp; **Course Instructor** &emsp; BSAI 301 - Software Engineering and Project Management 
+\
+*Fall 2025* &emsp; **Course Instructor** &emsp; CS/SE 100 - Computer Programming
 
 
 #### @ University of Alberta
