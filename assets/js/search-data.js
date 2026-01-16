@@ -396,11 +396,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-our-paper-multilingual-blending-llm-safety-alignment-evaluation-with-language-mixtures-is-accepted-at-naacl-2025-findings-this-paper-introduces-multilingual-blending-a-mixed-language-query-response-scheme-designed-to-evaluate-the-safety-alignment-of-sota-llms-under-sophisticated-code-switching-conditions",
-          title: 'Our paper Multilingual Blending: LLM Safety Alignment Evaluation with Language Mixtures is accepted...',
-          description: "",
-          section: "News",},{id: "news-our-paper-towards-testing-and-evaluating-vision-language-action-models-for-robotic-manipulation-an-empirical-study-is-accepted-at-the-acm-international-conference-on-the-foundations-of-software-engineering-fse",
+    },{id: "news-our-paper-towards-testing-and-evaluating-vision-language-action-models-for-robotic-manipulation-an-empirical-study-is-accepted-at-the-acm-international-conference-on-the-foundations-of-software-engineering-fse",
           title: 'Our paper Towards Testing and Evaluating Vision-Language-Action Models for Robotic Manipulation: An Empirical...',
+          description: "",
+          section: "News",},{id: "news-our-paper-antidote-or-placebo-unraveling-the-efficacy-of-neuron-coverage-criteria-on-testing-transformer-based-language-models-is-accepted-at-acm-transactions-on-software-engineering-and-methodology-tosem",
+          title: 'Our paper Antidote or Placebo? Unraveling the Efficacy of Neuron Coverage Criteria on...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
