@@ -2,15 +2,15 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Assistant Professor
+subtitle: Incoming Assistant Professor at Leiden University
 
 profile:
   align: right
   image: me_2025_formal.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Avenida Wai Long </p>
-    <p>Taipa, Macao SAR</p>
+    <p>Leiden, The Netherlands</p>
+    <p>From October 2026</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,31 +19,24 @@ social: true # includes social icons at the bottom of the page
 
 ## About Me
 
-I am currently an **Assistant Professor** in the School of Computer Science and Engineering at [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US). 
-I received my **Ph.D.** (Software Engineering and Intelligent System) at the [University of Alberta](https://www.ualberta.ca/index.html) in 2025, **M.Eng** at the [University of Toronto](https://www.utoronto.ca/) in 2021, and **B.Eng** at [Western University](https://www.uwo.ca/index.html) in 2019.
-<!-- I am grateful for the support from the [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/) and [Future Energy System (FES)](https://www.futureenergysystems.ca/). -->
+I am an **incoming Assistant Professor** at the [Leiden Institute of Advanced Computer Science (LIACS)](https://www.universiteitleiden.nl/en/science/computer-science), **Leiden University**. I currently serve as an Assistant Professor in the School of Computer Science and Engineering at [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US).
 
-## Research Interest
+My work connects **software engineering and artificial intelligence** to make AI systems safer, more reliable, and easier to understand. I received my **Ph.D.** from the [University of Alberta](https://www.ualberta.ca/index.html) in 2025, with a research focus on software engineering and intelligent systems, my **M.Eng.** from the [University of Toronto](https://www.utoronto.ca/) in 2021, and my **B.Eng.** from [Western University](https://www.uwo.ca/index.html) in 2019.
 
-My primary research direction revolves around **Quality Assurance for Trustworthy AI systems** such as **AI-enabled Cyber-Physical systems (AI-CPS)**, **Large Language Models (LLMs)**, and **Multimodal AI Agents**.
+## Research Interests
 
-<!-- Two questions keep me up at night and encourage me to explore further, namely, 
-**(1) How to safeguard the quality of sophisticated AI Systems?** and 
-**(2) What is the best practice of cyber-physical interaction?** -->
+My research centers on **Quality Assurance for Trustworthy AI Systems**. I develop methods for **testing, evaluation, analysis, repair, and enhancement** to understand how AI systems behave and fail, and to improve their safety, reliability, robustness, and explainability throughout development and operation. Two questions guide my work: *How can we establish trust in complex AI systems? How can we integrate AI reliably into the physical world?*
 
-My research is devoted to exploring these directions in three stages: 
-(1) **testing and evaluating** the performance and reliability of generative AI in dynamic, real-world environments, 
-(2) **developing** methods to enhance the safety and resilience of complex AI systems, and 
-(3) **investigating** the potential of multimodal foundation models to revolutionize the capabilities of AI applications.
+My current work and future directions span three connected areas:
 
-My **long-term vision** is to create a cohesive research program that pushes the boundaries of AI
-systems by combining foundational models and cutting-edge quality assurance techniques.
+- **Trustworthy foundation models.** Testing and understanding language and multimodal models, including uncertainty estimation, confidence calibration, multilingual safety alignment, modality bias, and video and audio understanding. I am also interested in how models reason internally and how their representations shape their behavior.
+- **Embodied AI and cyber-physical systems.** Evaluating and improving AI systems that interact with the physical world, particularly autonomous driving and robotic manipulation. This includes testing vision-language-action models, reconstructing simulation scenarios from real-world data, monitoring safety, and repairing unsafe behavior.
+- **AI for software and system development.** Using foundation models to support task planning, reward design, and software development, while building quality assurance into these workflows. A future direction is test-driven human-AI collaboration, where testing provides evidence for assessing and improving AI-generated programs.
+
+My **long-term vision** is to establish quality assurance across the full AI system lifecycle and enable AI agents to work reliably with people, software, and physical environments. This includes advancing models that can reason about physical laws and causal relationships, and understanding how trustworthiness emerges from the interactions among these components.
 
 ## Prospective Students
-I am looking for self-motivated Ph.D. and MSc. students with strong programming skills and relevant research experience. 
-Please send me an email with your CV and transcripts if you are interested.
 
+**Ph.D. opportunities** will be advertised on [Leiden University's official careers website](https://careers.universiteitleiden.nl/). I will add links to the vacancy announcements here once they are available.
 
-<!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+I also welcome **master's and undergraduate students** interested in research and collaboration in these areas. Please feel free to email me with a brief introduction, your research interests, and any relevant experience.
