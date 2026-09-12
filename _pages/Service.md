@@ -8,11 +8,21 @@ nav_order: 4
 ---
 
 
-### ​ PC Member and Conference Reviewer
+### ​ PC Member
 ---
+ACM International Conference on the Foundations of Software Engineering (FSE), 2027, PC Member  
+\
+International Workshop on Infrastructure for Trustworthy Software Agents (AGENTVERIFY), 2027, PC Member  
+\
+ACM International Conference on the Foundations of Software Engineering (FSE: IVR Track), 2026, PC Member  
+\
+IEEE Annual International Computer Software and Applications Conference (COMPSAC: SETA), 2026, PC Member  
+
 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2026, PC Member  
 \
-IEEE International Conference on Robotics and Automation (ICRA), 2024, Reviewer  
+CCF International Conference on Service Science (ICSS), 2026, PC Member  
+
+<!-- IEEE International Conference on Robotics and Automation (ICRA), 2024, Reviewer  
 \
 IEEE International Conference on Robotics and Automation (ICRA), 2024, Reviewer  
 \
@@ -22,7 +32,7 @@ International Conference on Artificial Intelligence and Statistics (AISTATS), 20
 \
 International Conference on Learning Representations (ICLR), 2024, Reviewer  
 \
-International Conference on Machine Learning (ICML), 2024, Reviewer  
+International Conference on Machine Learning (ICML), 2024, Reviewer   -->
 
 
 
@@ -41,7 +51,7 @@ IEEE Transaction on Reliability (TR), 2023-present
 ### Invited Talk
 ---
 \
-APSEC 2025: A New Journey: Navigating the Cold Start in First‑Year Learning  
+Asia-Pacific Software Engineering Conference (APSEC) 2025: A New Journey: Navigating the Cold Start in First‑Year Learning  
 \
 *Quality Assurance for AI-enabled Cyber-Physical Systems*  
 University of Alberta, Edmonton, Canada (2023-2025)   
