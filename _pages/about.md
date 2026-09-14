@@ -18,9 +18,10 @@ social: true # includes social icons at the bottom of the page
 
 ## About Me
 
-I am an **incoming Assistant Professor** at the [Leiden Institute of Advanced Computer Science (LIACS)](https://www.universiteitleiden.nl/en/science/computer-science), [**Leiden University**](https://www.universiteitleiden.nl/en). I currently serve as an Assistant Professor in the School of Computer Science and Engineering at [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US).
-
-My work connects **Software Engineering and Artificial Intelligence** to make AI systems safer, more reliable, and easier to understand. I received my **Ph.D.** from the [University of Alberta](https://www.ualberta.ca/index.html) in 2025, with a research focus on software engineering and intelligent systems, my **M.Eng.** from the [University of Toronto](https://www.utoronto.ca/) in 2021, and my **B.Eng.** from [Western University](https://www.uwo.ca/index.html) in 2019.
+I am an **incoming Assistant Professor** at the [Leiden Institute of Advanced Computer Science (LIACS)](https://www.universiteitleiden.nl/en/science/computer-science), [**Leiden University**](https://www.universiteitleiden.nl/en).
+My work connects **Software Engineering and Artificial Intelligence** to make AI systems safer, more reliable, and easier to understand. 
+ I served as an Assistant Professor in the School of Computer Science and Engineering at [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US) from 2025 to 2026.
+ Before that, I received my **Ph.D.** from the [University of Alberta](https://www.ualberta.ca/index.html) in 2025, with a research focus on software engineering and intelligent systems, my **M.Eng.** from the [University of Toronto](https://www.utoronto.ca/) in 2021, and my **B.Eng.** from [Western University](https://www.uwo.ca/index.html) in 2019.
 
 ## Research Interests
 

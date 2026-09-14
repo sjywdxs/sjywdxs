@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Teaching Experience
 ---
-I am currently serving as an instructor for several Computer Science and Software Engineering courses at Macau University of Science and Technology (MUST).
+I served as an instructor for several Computer Science and Software Engineering courses at Macau University of Science and Technology (MUST).
 Before that, I have been a TA several times in four different courses at the University of Alberta (UofA) and previously worked as a TA for one course at the University of Toronto (UofT). 
 In addition, I have been invited several times as Guest Speaker to present AI-CPS research and academic paper writing. 
 These experiences allowed me to comprehend the challenges that students may face, strategies to help them navigate difficulties, and methods to motivate them to overcome problems from various perspectives.
