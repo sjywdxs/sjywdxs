@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Leiden, The Netherlands</p>
-    <p>Einsteinweg 55, 2333 CC>
+    <p>Einsteinweg 55, 2333 C</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 ## About Me
 
-I am an **incoming Assistant Professor** at the [Leiden Institute of Advanced Computer Science (LIACS)](https://www.universiteitleiden.nl/en/science/computer-science), [**Leiden University**](https://www.universiteitleiden.nl/en).
+I am an **incoming Assistant Professor** at the [Leiden Institute of Advanced Computer Science (LIACS)](https://www.universiteitleiden.nl/en/science/computer-science), [Leiden University](https://www.universiteitleiden.nl/en).
 My work connects **Software Engineering and Artificial Intelligence** to make AI systems safer, more reliable, and easier to understand. 
 
 Before that, I served as an Assistant Professor in the School of Computer Science and Engineering at [Macau University of Science and Technology](https://www.must.edu.mo/index.html?locale=en_US) from 2025 to 2026.
