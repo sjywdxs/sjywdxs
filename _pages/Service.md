@@ -41,6 +41,8 @@ International Conference on Machine Learning (ICML), 2024, Reviewer   -->
 \
 IEEE Transactions on Software Engineering (TSE), 2024-present  
 \
+ACM Transactions on Software Engineering and Methodology (TOSEM), 2025-present  
+\
 Empirical Software Engineering (EMSE), 2024-present  
 \
 International Journal of Human‑Computer Interaction (IJHCI), 2024-present  
