@@ -396,8 +396,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-our-paper-towards-testing-and-evaluating-vision-language-action-models-for-robotic-manipulation-an-empirical-study-is-accepted-at-the-acm-international-conference-on-the-foundations-of-software-engineering-fse",
-          title: 'Our paper Towards Testing and Evaluating Vision-Language-Action Models for Robotic Manipulation: An Empirical...',
+    },{id: "news-our-paper-actracer-active-testing-of-large-language-model-via-multi-stage-sampling-is-accepted-at-acm-transactions-on-software-engineering-and-methodology-tosem",
+          title: 'Our paper AcTracer: Active Testing of Large Language Model via Multi-Stage Sampling is...',
           description: "",
           section: "News",},{id: "news-our-paper-antidote-or-placebo-unraveling-the-efficacy-of-neuron-coverage-criteria-on-testing-transformer-based-language-models-is-accepted-at-acm-transactions-on-software-engineering-and-methodology-tosem",
           title: 'Our paper Antidote or Placebo? Unraveling the Efficacy of Neuron Coverage Criteria on...',
