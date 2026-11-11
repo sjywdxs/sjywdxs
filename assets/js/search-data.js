@@ -396,14 +396,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-our-paper-actracer-active-testing-of-large-language-model-via-multi-stage-sampling-is-accepted-at-acm-transactions-on-software-engineering-and-methodology-tosem",
-          title: 'Our paper AcTracer: Active Testing of Large Language Model via Multi-Stage Sampling is...',
-          description: "",
-          section: "News",},{id: "news-our-paper-antidote-or-placebo-unraveling-the-efficacy-of-neuron-coverage-criteria-on-testing-transformer-based-language-models-is-accepted-at-acm-transactions-on-software-engineering-and-methodology-tosem",
+    },{id: "news-our-paper-antidote-or-placebo-unraveling-the-efficacy-of-neuron-coverage-criteria-on-testing-transformer-based-language-models-is-accepted-at-acm-transactions-on-software-engineering-and-methodology-tosem",
           title: 'Our paper Antidote or Placebo? Unraveling the Efficacy of Neuron Coverage Criteria on...',
           description: "",
           section: "News",},{id: "news-i-am-excited-to-share-that-i-will-join-the-leiden-institute-of-advanced-computer-science-liacs-at-leiden-university-as-an-assistant-professor-in-october-2026-i-look-forward-to-working-with-new-colleagues-and-students-to-advance-quality-assurance-for-trustworthy-ai-systems",
           title: 'I am excited to share that I will join the Leiden Institute of...',
+          description: "",
+          section: "News",},{id: "news-i-have-phd-positions-available-for-2027-these-are-specific-pre-funded-research-phd-vacancies-with-no-tuition-fees-as-a-promovendus-in-dienstverband-an-employed-phd-candidate-you-will-receive-a-formal-employment-contract-under-the-dutch-collective-labour-agreement-cao-a-monthly-salary-and-full-employment-benefits",
+          title: 'I have PhD positions available for 2027! These are specific, pre-funded research PhD...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
