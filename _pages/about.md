@@ -42,6 +42,6 @@ My **long-term vision** is to establish quality assurance across the full AI sys
 I am looking for **self-motivated PhD candidates** with experience in **software engineering and AI** who are interested in advancing quality assurance for trustworthy AI systems. 
 **Master's and undergraduate students** are also welcome to contact me about research projects in these areas.
 
-<span style="color: #0ad3f3;"> I also welcome inquiries from **self-funded PhD candidates** and those with external funding, such as a **CSC scholarship**</span>.
+I also welcome inquiries from **self-funded PhD candidates** and those with external funding, such as a **CSC scholarship**.
 
-<span style="color: #0ad3f3;">Interested? Please email me with your CV,  transcript, a short (1–2 page) research proposal outlining your research interests, and sample publications (optional).</span>
+<span style="color: #0558f3;">Interested candidates please email me with your CV,  transcript, a short (1–2 page) research proposal outlining your research interests, and sample publications (optional).</span>
