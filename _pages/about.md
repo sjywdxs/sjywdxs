@@ -39,6 +39,9 @@ My **long-term vision** is to establish quality assurance across the full AI sys
 
 ## Prospective Students
 
-**Ph.D. opportunities** will be advertised on [Leiden University's official careers website](https://careers.universiteitleiden.nl/). I will add links to the vacancy announcements here once they are available.
+I am looking for **self-motivated PhD candidates** with experience in **software engineering and AI** who are interested in advancing quality assurance for trustworthy AI systems. 
+**Master's and undergraduate students** are also welcome to contact me about research projects in these areas.
 
-I also welcome **master's and undergraduate students** interested in research and collaboration in these areas. Please feel free to email me with a brief introduction, your research interests, and any relevant experience.
+<span style="color: #0ad3f3;"> I also welcome inquiries from **self-funded PhD candidates** and those with external funding, such as a **CSC scholarship**</span>.
+
+<span style="color: #0ad3f3;">Interested? Please email me with your CV,  transcript, a short (1–2 page) research proposal outlining your research interests, and sample publications (optional).</span>

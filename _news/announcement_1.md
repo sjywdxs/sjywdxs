@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2026-2-13 07:59:00-0400
+date: 2026-11-11 00:00:00+0100
 inline: true
 related_posts: false
 ---
 
-Our paper <a href="https://dl.acm.org/doi/full/10.1145/3744340">AcTracer: Active Testing of Large Language Model via Multi-Stage Sampling</a> is accepted at ACM Transactions on Software Engineering and Methodology (TOSEM). 
+I have **PhD positions available for 2027**! These are specific, pre-funded research PhD vacancies with no tuition fees.
+
+As a **promovendus in dienstverband** (an employed PhD candidate), you will receive a formal employment contract under the Dutch Collective Labour Agreement (CAO), a monthly salary, and full employment benefits.
+

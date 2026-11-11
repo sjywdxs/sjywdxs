@@ -10,6 +10,8 @@ nav_order: 4
 
 ### ​ PC Member
 ---
+IEEE International Symposium on Software Reliability Engineering (ISSRE), 2027, PC Member
+\
 ACM International Conference on the Foundations of Software Engineering (FSE), 2027, PC Member  
 \
 International Workshop on Infrastructure for Trustworthy Software Agents (AGENTVERIFY), 2027, PC Member  
