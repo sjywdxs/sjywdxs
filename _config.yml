@@ -48,7 +48,6 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_enabled: false # set to true to display the footer
 footer_fixed: true
 search_enabled: false
 socials_in_search: true
