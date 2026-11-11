@@ -402,7 +402,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-excited-to-share-that-i-will-join-the-leiden-institute-of-advanced-computer-science-liacs-at-leiden-university-as-an-assistant-professor-in-october-2026-i-look-forward-to-working-with-new-colleagues-and-students-to-advance-quality-assurance-for-trustworthy-ai-systems",
           title: 'I am excited to share that I will join the Leiden Institute of...',
           description: "",
-          section: "News",},{id: "news-i-have-phd-positions-available-for-2027-these-are-specific-pre-funded-research-phd-vacancies-with-no-tuition-fees-as-a-promovendus-in-dienstverband-an-employed-phd-candidate-you-will-receive-a-formal-employment-contract-under-the-dutch-collective-labour-agreement-cao-a-monthly-salary-and-full-employment-benefits",
+          section: "News",},{id: "news-i-have-phd-positions-available-for-2027-these-are-specific-pre-funded-research-phd-vacancies-with-no-tuition-fees-as-an-employed-phd-candidate-promovendus-in-dienstverband-you-will-receive-a-formal-employment-contract-under-the-dutch-collective-labour-agreement-cao-a-monthly-salary-and-full-employment-benefits",
           title: 'I have PhD positions available for 2027! These are specific, pre-funded research PhD...',
           description: "",
           section: "News",},{id: "projects-project-1",
